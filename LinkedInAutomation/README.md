@@ -8,7 +8,8 @@ Prerequisites:-
 1.selenium
 2.webdriver-manager
 
-How To Use This
+How To Use This?
+
 Clone the repository or download the zip.
 Navigate to this project
 Run python linkedin.py
