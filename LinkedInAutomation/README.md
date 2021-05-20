@@ -9,6 +9,6 @@ Prerequisites:-
 2.webdriver-manager
 
 How To Use This
-Clone the repository git clone https://github.com/SocioDroid/devsnest.git or download the zip.
+Clone the repository or download the zip.
 Navigate to this project
-Run python3 linkedin.py
+Run python linkedin.py
